@@ -16,8 +16,12 @@
                         <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="deer" translatesAutoresizingMaskIntoConstraints="NO" id="RtE-Lm-d4r">
-                                <rect key="frame" x="12" y="465" width="355" height="379"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="tree2" translatesAutoresizingMaskIntoConstraints="NO" id="uAq-KA-kXJ">
+                                <rect key="frame" x="164" y="356" width="242" height="156"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="tree" translatesAutoresizingMaskIntoConstraints="NO" id="a4E-af-4aA">
+                                <rect key="frame" x="-21" y="356" width="271" height="168"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -31,7 +35,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="deer" width="860" height="974"/>
+        <image name="tree" width="250" height="180"/>
+        <image name="tree2" width="512" height="441"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

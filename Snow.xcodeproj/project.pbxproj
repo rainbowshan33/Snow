@@ -14,6 +14,7 @@
 		74771FED2629B50D0034F808 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74771FEB2629B50D0034F808 /* LaunchScreen.storyboard */; };
 		74771FF82629D11C0034F808 /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 74771FF62629D11C0034F808 /* MyParticle.sks */; };
 		74771FF92629D11C0034F808 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74771FF72629D11C0034F808 /* Assets.xcassets */; };
+		74771FFB262B0B170034F808 /* bensound-tomorrow.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 74771FFA262B0B170034F808 /* bensound-tomorrow.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		74771FEE2629B50D0034F808 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74771FF62629D11C0034F808 /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle.sks; sourceTree = "<group>"; };
 		74771FF72629D11C0034F808 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		74771FFA262B0B170034F808 /* bensound-tomorrow.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bensound-tomorrow.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				74771FE02629B50A0034F808 /* AppDelegate.swift */,
+				74771FFA262B0B170034F808 /* bensound-tomorrow.mp3 */,
 				74771FE22629B50A0034F808 /* SceneDelegate.swift */,
 				74771FE42629B50A0034F808 /* ViewController.swift */,
 				74771FE62629B50A0034F808 /* Main.storyboard */,
@@ -129,6 +132,7 @@
 			files = (
 				74771FED2629B50D0034F808 /* LaunchScreen.storyboard in Resources */,
 				74771FF82629D11C0034F808 /* MyParticle.sks in Resources */,
+				74771FFB262B0B170034F808 /* bensound-tomorrow.mp3 in Resources */,
 				74771FF92629D11C0034F808 /* Assets.xcassets in Resources */,
 				74771FE82629B50A0034F808 /* Main.storyboard in Resources */,
 			);
